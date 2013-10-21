@@ -25,5 +25,4 @@
          {:language :c++, :colour :yellow, :name "Jim Brown", :dob "20/02/1981"}
          {:language :Python, :colour :green, :name "Kate Jones", :dob "31/12/1985"}
          {:language :Ruby, :colour :blue, :name "Helen Pain", :dob "09/10/1951"}]
-    (do
-      (key-join :name m1 m2 m3)))
+    (key-join :name m1 m2 m3))
