@@ -1,14 +1,13 @@
 # map-utils
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library for advanced map functions.
 
 ## Usage
 
-FIXME
+(key-join :name m1 m2 m3) joins n collections of maps using the key provided. See tests for examples.
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2013 Paul Bowler
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the Eclipse Public License either version 1.0
